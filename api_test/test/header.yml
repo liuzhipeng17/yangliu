@@ -1,0 +1,5 @@
+HEADERS:
+    APP_ID: "$$PLACEHOLDER$$"
+    KEY: "$$PLACEHOLDER$$"
+    
+# 引用env配置文件env_config.ini
